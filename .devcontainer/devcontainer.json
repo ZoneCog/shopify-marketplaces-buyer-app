@@ -1,0 +1,9 @@
+{
+  "name": "moonjelly",
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "features": {
+    "ghcr.io/devcontainers/features/node:1": {},
+    "ghcr.io/devcontainers-contrib/features/prisma:2": {},
+    "ghcr.io/devcontainers-contrib/features/shopify-cli:1": {}
+  }
+}
